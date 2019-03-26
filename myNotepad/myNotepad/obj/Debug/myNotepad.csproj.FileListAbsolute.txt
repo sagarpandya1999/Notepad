@@ -1,0 +1,9 @@
+c:\users\416\documents\visual studio 2012\Projects\myNotepad\myNotepad\bin\Debug\myNotepad.exe.config
+c:\users\416\documents\visual studio 2012\Projects\myNotepad\myNotepad\bin\Debug\myNotepad.exe
+c:\users\416\documents\visual studio 2012\Projects\myNotepad\myNotepad\bin\Debug\myNotepad.pdb
+c:\users\416\documents\visual studio 2012\Projects\myNotepad\myNotepad\obj\Debug\myNotepad.csprojResolveAssemblyReference.cache
+c:\users\416\documents\visual studio 2012\Projects\myNotepad\myNotepad\obj\Debug\myNotepad.Form1.resources
+c:\users\416\documents\visual studio 2012\Projects\myNotepad\myNotepad\obj\Debug\myNotepad.Properties.Resources.resources
+c:\users\416\documents\visual studio 2012\Projects\myNotepad\myNotepad\obj\Debug\myNotepad.csproj.GenerateResource.Cache
+c:\users\416\documents\visual studio 2012\Projects\myNotepad\myNotepad\obj\Debug\myNotepad.exe
+c:\users\416\documents\visual studio 2012\Projects\myNotepad\myNotepad\obj\Debug\myNotepad.pdb
